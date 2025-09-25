@@ -7,7 +7,7 @@ const AllProjects = () => {
     <div className="bg-white text-black">
       <div className="main-container py-28">
         <h2 className="text-6xl lg:text-[8vw] font-heading font-bold leading-[1] tracking-tight text-center">Projects</h2>
-        <div className="grid md:grid-cols-2 gap-8 lg:mt-16">
+        <div className="grid md:grid-cols-2 gap-8 mt-8 lg:mt-16">
           {Projects.map(({id,name,link,image})=>(
             <a href={link} key={id} className='overflow-hidden flex flex-col'>
               <div className="overflow-hidden group rounded-2xl h-full">

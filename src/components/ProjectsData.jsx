@@ -9,31 +9,31 @@ const Projects = [
     id: 1,
     name: "Productivity Dashboard",
     image: Dashboard,
-    link: "/project-one",
+    link: "https://github.com/Techy-Shivam/Productivity-Dashboard",
   },
   {
     id: 2,
     name: "NEURA AI",
     image: Neura,
-    link: "/project-two",
+    link: "https://github.com/Techy-Shivam/Neura-AI",
   },
   {
     id: 3,
     name: "ARMOR Website",
     image: armor,
-    link: "/project-three",
+    link: "https://armor-headphone-website.vercel.app/",
   },
   {
     id: 4,
     name: "Sidcup Golf Website",
     image: golf,
-    link: "/project-four",
+    link: "https://github.com/Techy-Shivam/Sidcup_Family_Golf_Website",
   },
   {
     id: 5,
     name: "AURA AI Chatbot",
     image: aura,
-    link: "/project-five",
+    link: "https://github.com/Techy-Shivam/Aura-A.I-ChataBot",
   } 
 ]
 
